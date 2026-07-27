@@ -1,0 +1,40 @@
+
+// Cores do texto
+// Preto
+System.out.println("\u001B[30mTexto Preto\u001B[0m");
+
+// Vermelho
+System.out.println("\u001B[31mTexto Vermelho\u001B[0m");
+
+// Verde
+System.out.println("\u001B[32mTexto Verde\u001B[0m");
+
+// Amarelo
+System.out.println("\u001B[33mTexto Amarelo\u001B[0m");
+
+// Azul
+System.out.println("\u001B[34mTexto Azul\u001B[0m");
+
+// Roxo
+System.out.println("\u001B[35mTexto Roxo\u001B[0m");
+
+// Ciano
+System.out.println("\u001B[36mTexto Ciano\u001B[0m");
+
+// Branco
+System.out.println("\u001B[37mTexto Branco\u001B[0m");
+
+//Cores de fundo
+// Fundo vermelho
+System.out.println("\u001B[41mFundo Vermelho\u001B[0m");
+
+// Fundo verde
+System.out.println("\u001B[42mFundo Verde\u001B[0m");
+
+// Fundo amarelo
+System.out.println("\u001B[43mFundo Amarelo\u001B[0m");
+
+// Fundo azul
+System.out.println("\u001B[44mFundo Azul\u001B[0m");
+
+
