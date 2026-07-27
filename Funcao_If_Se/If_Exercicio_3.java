@@ -10,9 +10,9 @@ public class If_Exercicio_3 {
         System.out.print("Digite o segundo número: ");
         int numero2 = entrada.nextInt();
         if (numero1 > numero2) {
-            System.out.print("O  MAIOR número é: "+numero1);
+            System.out.print("O MAIOR número é: "+numero1);
         } else if (numero2 > numero1) {
-            System.out.print("O  MAIOR número é: "+numero2);
+            System.out.print("O MAIOR número é: "+numero2);
         } else {
             System.out.println("Os dois números são IGUAIS.");
 
