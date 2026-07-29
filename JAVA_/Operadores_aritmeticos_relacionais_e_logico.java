@@ -1,4 +1,4 @@
-package JAVA_; // Define o pacote onde esta classe está localizada.
+package Java_; // Define o pacote onde esta classe está localizada.
 // O package serve para organizar as classes do projeto.
 // Pense nele como uma pasta que agrupa arquivos relacionados.
 

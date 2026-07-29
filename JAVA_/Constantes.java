@@ -1,4 +1,4 @@
-package JAVA_; // Define o pacote onde esta classe está localizada.
+package Java_; // Define o pacote onde esta classe está localizada.
 
 public class Constantes { // Declara a classe chamada Constantes.
 

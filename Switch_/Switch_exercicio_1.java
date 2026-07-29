@@ -14,7 +14,7 @@ public class Switch_exercicio_1 {
         System.out.println("5-Quinta-feira");
         System.out.println("6-Sexta-feira");
         System.out.println("7-Sábado");
-        System.out.println("Escolha um dia da semana:");
+        System.out.print ("Escolha um dia da semana:");
         int opcao = entrada.nextInt();
         switch (opcao) {
             case 1:

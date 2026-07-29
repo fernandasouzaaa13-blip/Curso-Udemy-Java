@@ -1,4 +1,4 @@
-package JAVA_;
+package Java_;
 
 public class Introducao {
     public static void main(String[] args) {
