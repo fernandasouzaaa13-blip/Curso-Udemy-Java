@@ -1,4 +1,4 @@
-package While_;
+package while_;
 
 import java.util.Scanner;
 
