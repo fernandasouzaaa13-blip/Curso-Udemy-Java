@@ -1,5 +1,5 @@
 // Verificar se uma letra é vogal ou consoante 
-package Funcao_If_Se; // Pacote onde esta classe está organizada.
+package Funcao_If; // Pacote onde esta classe está organizada.
 
 import java.util.Scanner; // Importa a classe Scanner para ler dados do teclado.
 

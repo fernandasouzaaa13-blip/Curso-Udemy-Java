@@ -1,5 +1,5 @@
 //Criar um programa que receba um número inteiro do usúario e verifique se ele é positivo ou não
-package Funcao_If_Se;
+package Funcao_If;
 
 import java.util.Scanner;
 

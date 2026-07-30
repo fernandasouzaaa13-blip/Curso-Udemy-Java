@@ -1,4 +1,4 @@
-package Funcao_If_Se; // Define o pacote onde esta classe está localizada.
+package Funcao_If; // Define o pacote onde esta classe está localizada.
 // O package serve para organizar as classes do projeto.
 
 public class If_Exemplo_2 {

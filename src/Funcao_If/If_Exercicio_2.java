@@ -1,7 +1,7 @@
 //Verificar se o número é par ou impar
 //(4  % 2==0)->par (0)
 //(7  % 2==0)-impar (1)
-package Funcao_If_Se;
+package Funcao_If;
 
 import java.util.Scanner;
 

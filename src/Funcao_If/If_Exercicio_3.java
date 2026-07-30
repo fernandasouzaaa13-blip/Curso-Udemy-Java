@@ -1,4 +1,4 @@
-package Funcao_If_Se;
+package Funcao_If;
 
 import java.util.Scanner;
 
