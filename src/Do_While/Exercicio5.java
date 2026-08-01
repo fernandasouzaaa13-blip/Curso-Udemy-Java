@@ -1,16 +1,17 @@
-package Do_While_;
+package Do_While;
 
 import java.util.Scanner;
 
-public class Do_while_Exercicio5 {
+public class Exercicio5 {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
         int numero;
         do {
-            System.out.print("Digite um número: ");
+            System.out.print("Digite um número ou (número(-) para encerrar): ");
             numero = entrada.nextInt();
         } while (numero >= 0);
-        System.out.println("Programa encerrado");
+        System.out.println("Número negativo digitado. Programa encerrado");
+    entrada.close();
     }
 
 }

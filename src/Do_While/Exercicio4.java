@@ -1,5 +1,5 @@
 // Declaração do pacote
-package Do_While_;
+package Do_While;
 
 //Importa a classe Scanner da biblioteca java.util para ler 
 //			dados digitados pelo usuário.
@@ -16,7 +16,7 @@ import java.util.Scanner;
 //			dentro de uma classe.
 // O nome da classe (Exercicio3) deve ser exatamente igual ao 
 //			nome do arquivo (Exercicio3.java).
-public class Do_while_Exercicio4 {
+public class Exercicio4 {
 
 	 // Método principal — este é o ponto de entrada do programa.
 	 // Quando a aplicação é executada, a JVM (Java Virtual Machine) 
