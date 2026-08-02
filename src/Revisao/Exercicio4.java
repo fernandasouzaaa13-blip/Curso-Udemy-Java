@@ -1,22 +1,22 @@
-package Do_While;
+package Revisao;
 
 import java.util.Scanner;
 
-public class Exercicio6 {
+public class Exercicio4 {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
+        int soma = 0;
         int numero;
-        int i = 0;
-        do {
+        while (true) {
             System.out.print("Digite um número: ");
             numero = entrada.nextInt();
-            if (numero > 0) {
-                i++;
+            if (numero < 0) {
+                break;
             }
+            soma += numero;
+        }
 
-        } while (numero != 0);
-        System.out.println("A quantidade de números é: " + i);
+        System.out.println("A soma total dos números é: " + soma);
         entrada.close();
     }
-
 }

@@ -1,4 +1,4 @@
-package While_;
+package While_.Resolucao_Prof;
 // Define o pacote onde a classe está localizada.
 // Os pacotes são usados em Java para organizar as classes em grupos lógicos.
 // Por exemplo, este código está no pacote "while_4".
@@ -24,7 +24,7 @@ import java.util.Scanner;
 
 // Declara a classe pública chamada Exercicio10.
 // Em Java, toda aplicação começa com uma classe.
-public class Exercicio14 {
+public class Exercicio13 {
 
 	// ======================================================================================
     // Método principal (main): ponto de entrada do programa.

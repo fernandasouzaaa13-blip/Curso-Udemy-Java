@@ -1,4 +1,4 @@
-package Java_; // Define o pacote onde esta classe está localizada.
+package Primeiros_passos; // Define o pacote onde esta classe está localizada.
 
 public class Variaveis { // Declara a classe chamada Variaveis.
 

@@ -6,12 +6,21 @@ public class Exercicio5 {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
         int numero;
+        int soma = 0;
+        int media;
+        int contador = 0;
         do {
-            System.out.print("Digite um número ou (número(-) para encerrar): ");
+            System.out.print("Digite um número: ");
             numero = entrada.nextInt();
-        } while (numero >= 0);
-        System.out.println("Número negativo digitado. Programa encerrado");
-    entrada.close();
+            if (numero != -1) {
+                soma += numero;
+                contador++;
+            }
+
+        } while (numero != -1);
+        media = soma / contador;
+        System.out.print("A média entre os números digitados é :" + media);
+        entrada.close();
     }
 
 }
